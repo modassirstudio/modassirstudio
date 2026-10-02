@@ -51,6 +51,8 @@ and Excel export.
 
 - **GitHub:** [@modassirstudio](https://github.com/modassirstudio)
 - **Email:** modassir.studio@gmail.com
+- **LinkedIn:** [Md Modassir](https://www.linkedin.com/in/md-modassir-801a38438/)
+- **Portfolio Website:** (https://modassirstudio.github.io/Portfolio/)
 
 ---
 
