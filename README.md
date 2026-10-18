@@ -45,6 +45,11 @@ Full-stack desktop app with DAO pattern, real-time stock updates,
 and Excel export.
 [View Repo →](https://github.com/modassirstudio/Shop-Management-System)
 
+### 🎥 Live Coding & Technical Assessments
+
+[![Technical Assessment Video](https://img.youtube.com/vi/DCYS2vuVTys/0.jpg)](https://www.youtube.com/watch?v=DCYS2vuVTys)
+
+*Click the image above to watch a 2-hour live technical assessment covering SQL, Excel, and Python.*
 ---
 
 ## 📫 Contact
