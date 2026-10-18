@@ -51,7 +51,6 @@ and Excel export.
 - **Video:** [2-Hour Live Assessment (SQL, Excel, Python)](https://www.youtube.com/watch?v=DCYS2vuVTys)
 - **Score:** Excel (12/15), Python (6/6), SQL (11.5/15)
 
-_Click the image above to watch a 2-hour live technical assessment covering SQL, Excel, and Python._
 ---
 
 ## 📫 Contact
