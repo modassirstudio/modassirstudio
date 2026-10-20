@@ -44,13 +44,6 @@ and SQL injection prevention.
 Full-stack desktop app with DAO pattern, real-time stock updates, 
 and Excel export.
 [View Repo →](https://github.com/modassirstudio/Shop-Management-System)
-
-### 🎥 Live Coding & Technical Assessments
-
-- **Date:** 18 Oct 2026
-- **Video:** [2-Hour Live Assessment (SQL, Excel, Python)](https://www.youtube.com/watch?v=DCYS2vuVTys)
-- **Score:** Excel (12/15), Python (6/6), SQL (11.5/15)
-
 ---
 
 ## 📫 Contact
