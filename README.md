@@ -44,6 +44,7 @@ and SQL injection prevention.
 Full-stack desktop app with DAO pattern, real-time stock updates, 
 and Excel export.
 [View Repo →](https://github.com/modassirstudio/Shop-Management-System)
+
 ---
 
 ## 📫 Contact
